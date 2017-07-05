@@ -1,0 +1,19 @@
+.chart{
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 40px;
+	position: relative;
+}
+.percent-val{
+	position: absolute;
+	top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+.left-days{
+	text-align: center;
+	font-size: 24px;
+	margin-top: 20px;
+}
